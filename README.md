@@ -1,43 +1,49 @@
 # 👋 Hi, I'm Bhupesh Kumar!
 
-🚀 A results-driven **Software Developer** with over 3 years of experience building intelligent systems and full-stack web applications.  
-🎓 Graduate of **Applied Artificial Intelligence & Machine Learning** and **Database Development** from Conestoga College, Canada.  
-🌐 Passionate about using AI to solve real-world problems and build meaningful digital experiences.
+🚀 **Full-stack & AI-focused Software Developer** with 3+ years of experience delivering production-grade systems at **Reliance Jio** and building **AI-enabled platforms**.  
+🎓 Graduate Certificates in **Applied AI/ML** and **Reporting Systems & Database Development** from Conestoga College, Canada.  
+🌐 Passionate about building scalable, intelligent, and reliable software that makes a real-world impact.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: Java, Python, JavaScript, C/C++, SQL  
-**Web Development**: ReactJS, Node.js, Express, HTML5, CSS3, EJS  
-**AI/ML**: TensorFlow, PyTorch, Scikit-learn, OpenAI Gym, Streamlit  
-**Databases**: MySQL, MongoDB, PostgreSQL  
-**Tools**: Git, Docker, Postman, VS Code, Jupyter, Trello, Jira  
-**Concepts**: Object-Oriented Programming, DSA, REST APIs, MLOps Basics, Agile Scrum
+**Languages**: JavaScript, Python, Java, C/C++, SQL, Lua  
+**Web/Backend**: ReactJS, Node.js, Spring Boot, Express  
+**AI/ML**: TensorFlow, Keras, Deep Q-Learning, Reinforcement Learning  
+**Databases**: MongoDB, MySQL, PostgreSQL, SQL Server  
+**DevOps & Tools**: Docker, GitHub Actions, Kafka, Jenkins, Azure, JIRA, Linux  
+**Concepts**: REST APIs, Microservices, OOP, JWT Auth, CI/CD, TR-069
+
+---
+
+## 💼 Experience
+
+### **Reliance Jio – Software Developer** (Aug 2020 – Aug 2023)  
+- Migrated embedded UIs from **LuCI (Lua)** to **ReactJS** on JioWRT (OpenWrt), improving maintainability and cutting UI latency by 35%.  
+- Engineered RESTful APIs between React frontends and Lua backends for real-time configuration and telemetry.  
+- Optimized performance-critical firmware in **C** for resource-constrained hardware, improving stability under tight CPU/memory limits.  
+- Automated QA validation & log parsing with CLI scripts, reducing manual debugging effort by 60%.  
+- Orchestrated **TR-069 provisioning** and zero-touch device onboarding with cross-functional teams.  
+- Maintained CI/CD pipelines in **Azure DevOps** and triaged production issues with traceable fixes.
 
 ---
 
 ## 🚀 Projects
 
-### 🎮 [Flappy Bird Reborn – DQN Agent](https://github.com/bhupeshk3014/flappy-bird-reborn)
-Reinforcement Learning-based Flappy Bird AI using Deep Q-Learning  
-> 🧠 Custom RL environment | 🎯 Epsilon-greedy + Experience Replay | 📈 Reward shaping and performance logging
+### 🏥 [CareSync – Healthcare Microservices](#)
+Spring Boot | Kafka | MongoDB | Docker | ReactJS  
+- Built distributed microservices for appointments, notifications, and audit logs with Kafka-based eventing.  
+- Implemented secure JWT authentication, RBAC, and real-time analytics dashboard.
 
-### 🩺 [Pneumonia Detection with CNN](https://github.com/bhupeshk3014/pneumonia-detection)
-Deployed a custom CNN model using Streamlit for detecting pneumonia from chest X-rays  
-> 🔍 92%+ accuracy | 🔄 Real-time predictions | 🧪 Data Augmentation + Regularization
+### 🍴 [Enterprise FoodShala Platform](#)  
+ReactJS | Node.js | MySQL | JWT  
+- Developed full-stack food ordering system with **Admin/Restaurant/Customer** roles, menu management, and order tracking.
 
-### 🌍 [COVID-19 Tracker Dashboard](https://github.com/bhupeshk3014/covid19-tracker)
-ReactJS web app for global COVID-19 stats with country filters and graphs  
-> 📊 ChartJS visualizations | 🌐 REST API integration | ⚡️ Responsive UI
-
-### 🧠 [Face Detection App](https://github.com/bhupeshk3014/facerecognition)
-A Clarifai API-integrated face recognition web app built with React  
-> 🖼️ Bounding box detection | 🧪 User input validation | 🌐 Real-time feedback
-
-### 🍴 [FoodShala Web App](https://github.com/bhupeshk3014/foodshala)
-MERN-stack based food ordering system for customers and restaurants  
-> 🔐 JWT Auth | 📦 MySQL backend | 🛒 Order management system
+### 🎮 [Flappy Bird AI Agent](#)  
+Deep Q-Learning | Keras | Pygame  
+- Trained an RL agent using DQN with reward shaping to autonomously play Flappy Bird.  
+- Built training visualizations and a Pygame interface.
 
 ---
 
