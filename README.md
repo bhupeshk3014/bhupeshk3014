@@ -2,7 +2,8 @@
 
 🚀 **Full-stack & AI-focused Software Developer** with 3+ years of experience delivering production-grade systems at **Reliance Jio** and building **AI-enabled platforms**.  
 🎓 Graduate Certificates in **Applied AI/ML** and **Reporting Systems & Database Development** from Conestoga College, Canada.  
-🌐 Passionate about building scalable, intelligent, and reliable software that makes a real-world impact.
+💼 Actively seeking **Software Developer / Full-Stack / Java Developer roles** in Canada.  
+🌐 Passionate about building scalable, reliable, and intelligent software with a strong foundation in **Data Structures & Algorithms** and cloud-native development.  
 
 ---
 
@@ -13,7 +14,7 @@
 **AI/ML**: TensorFlow, Keras, Deep Q-Learning, Reinforcement Learning  
 **Databases**: MongoDB, MySQL, PostgreSQL, SQL Server  
 **DevOps & Tools**: Docker, GitHub Actions, Kafka, Jenkins, Azure, JIRA, Linux  
-**Concepts**: REST APIs, Microservices, OOP, JWT Auth, CI/CD, TR-069
+**Concepts**: Data Structures & Algorithms (DSA), REST APIs, Microservices, OOP, JWT Auth, CI/CD, TR-069
 
 ---
 
@@ -26,6 +27,12 @@
 - Automated QA validation & log parsing with CLI scripts, reducing manual debugging effort by 60%.  
 - Orchestrated **TR-069 provisioning** and zero-touch device onboarding with cross-functional teams.  
 - Maintained CI/CD pipelines in **Azure DevOps** and triaged production issues with traceable fixes.
+  
+### **Nanoquake Studios – Frontend Developer Intern** (Sept 2019 – Dec 2019)  
+- Built reusable **ReactJS components** with responsive design and optimized rendering.  
+
+### **Ministry of Railways – Intern (Signalling & Telecom)** (Jun 2019 – Aug 2019)  
+- Gained hands-on experience in **RailNet, UTS, Optical Fiber Communication**, and railway telecom systems.  
 
 ---
 
@@ -36,14 +43,10 @@ Spring Boot | Kafka | MongoDB | Docker | ReactJS
 - Built distributed microservices for appointments, notifications, and audit logs with Kafka-based eventing.  
 - Implemented secure JWT authentication, RBAC, and real-time analytics dashboard.
 
-### 🍴 [Enterprise FoodShala Platform](#)  
-ReactJS | Node.js | MySQL | JWT  
-- Developed full-stack food ordering system with **Admin/Restaurant/Customer** roles, menu management, and order tracking.
-
-### 🎮 [Flappy Bird AI Agent](#)  
-Deep Q-Learning | Keras | Pygame  
-- Trained an RL agent using DQN with reward shaping to autonomously play Flappy Bird.  
-- Built training visualizations and a Pygame interface.
+### 💼 [JobHub – Full-Stack Job Portal](#)  
+ReactJS | Node.js | Express | Clerk | Sentry  
+- Developed a production-ready job marketplace with candidate & employer flows: job posting, search/filter, applications, and dashboards.  
+- Integrated Clerk for secure authentication/authorization and Sentry for error monitoring & performance tracing.  
 
 ---
 
@@ -64,6 +67,14 @@ I share guides, JS tricks, backend tips, and project breakdowns:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhupeshk3014&show_icons=true&theme=default&hide_title=true&count_private=true" />
+</p>
+
+---
+
+## 📈 Leetcode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bhupeshk3014?theme=light&font=source_code_pro&ext=heatmap" />
 </p>
 
 ---
