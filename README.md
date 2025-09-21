@@ -38,16 +38,23 @@
 
 ## 🚀 Projects
 
+### 💼 [JobHub – Full-Stack Job Portal](https://jobhub-client-ivory.vercel.app/)  
+ReactJS | Node.js | Express | Clerk | Sentry  
+- Developed a production-ready job marketplace with candidate & employer flows: job posting, search/filter, applications, and dashboards.  
+- Integrated Clerk for secure authentication/authorization and Sentry for error monitoring & performance tracing.
+
+### 🩺 [Pneumonia Detection using CNNs](https://github.com/bhupeshk3014/pneumonia-detection)  
+Python | TensorFlow | Keras | OpenCV | Streamlit  
+- Developed and trained a Convolutional Neural Network (CNN) to classify chest X-rays as **Normal** or **Pneumonia** with high accuracy.  
+- Preprocessed medical imaging datasets with OpenCV and applied **data augmentation** to improve model generalization.  
+- Implemented an **end-to-end ML pipeline** in Python & TensorFlow, covering training, evaluation, and metric visualization.  
+- Built an interactive **Streamlit app** to deploy and visualize predictions for real-world usability.  
+
 ### 🏥 [CareSync – Healthcare Microservices](#)
 Spring Boot | Kafka | MongoDB | Docker | ReactJS  
 - Built distributed microservices for appointments, notifications, and audit logs with Kafka-based eventing.  
 - Implemented secure JWT authentication, RBAC, and real-time analytics dashboard.
-
-### 💼 [JobHub – Full-Stack Job Portal](#)  
-ReactJS | Node.js | Express | Clerk | Sentry  
-- Developed a production-ready job marketplace with candidate & employer flows: job posting, search/filter, applications, and dashboards.  
-- Integrated Clerk for secure authentication/authorization and Sentry for error monitoring & performance tracing.  
-
+  
 ---
 
 ## ✍️ Latest Dev.to Posts
