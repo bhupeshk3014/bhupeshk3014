@@ -1,20 +1,31 @@
 # 👋 Hi, I'm Bhupesh Kumar!
 
-🚀 **Full-stack & AI-focused Software Developer** with 3+ years of experience delivering production-grade systems at **Reliance Jio** and building **AI-enabled platforms**.  
+🚀 **Full-Stack Software Developer (AI-focused)** with 3+ years of professional experience building and shipping **production-grade systems** at **Reliance Jio** and developing **cloud-native, data-driven applications**.
 🎓 Graduate Certificates in **Applied AI/ML** and **Reporting Systems & Database Development** from Conestoga College, Canada.  
-💼 Actively seeking **Software Developer / Full-Stack / Java Developer roles** in Canada.  
+💼 Actively seeking **Software Developer / Full-Stack / Backend / Java Developer** roles in Canada.
 🌐 Passionate about building scalable, reliable, and intelligent software with a strong foundation in **Data Structures & Algorithms** and cloud-native development.  
+
+---
+
+## 🧠 Core Strengths
+
+- Designing **scalable backend APIs** and data-driven systems
+- Building **interactive frontend applications** with React
+- Applying **AI/ML techniques** to real-world problems
+- Strong foundation in **Data Structures & Algorithms**
+- Writing **production-ready, maintainable code**
+- Debugging complex systems across frontend, backend, and infrastructure
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: JavaScript, Python, Java, C/C++, SQL, Lua  
-**Web/Backend**: ReactJS, Node.js, Spring Boot, Express  
-**AI/ML**: TensorFlow, Keras, Deep Q-Learning, Reinforcement Learning  
-**Databases**: MongoDB, MySQL, PostgreSQL, SQL Server  
-**DevOps & Tools**: Docker, GitHub Actions, Kafka, Jenkins, Azure, JIRA, Linux  
-**Concepts**: Data Structures & Algorithms (DSA), REST APIs, Microservices, OOP, JWT Auth, CI/CD, TR-069
+**Languages**: Java, JavaScript, Python, C/C++, SQL, Lua
+**Frontend / Backend**: ReactJS, Node.js, Express, Spring Boot, REST APIs
+**AI / ML**: TensorFlow, Keras, CNNs, Reinforcement Learning (DQN), OpenCV
+**Databases**: PostgreSQL, MongoDB, MySQL, SQL Server
+**DevOps & Tooling**: Docker, GitHub Actions, Kafka, Jenkins, Azure, JIRA, Linux
+**Concepts**: Data Structures & Algorithms (DSA), OOP, Microservices, JWT Authentication, CI/CD, System Design, TR-069
 
 ---
 
@@ -37,6 +48,13 @@
 ---
 
 ## 🚀 Projects
+
+### 🗺️ [ParcelAtlas — Interactive Real-Estate Map Platform](https://parcel-atlas-frontend.vercel.app/)
+React | Node.js | PostgreSQL | PostGIS | AWS Cognito | Mapbox | Docker
+- Built a full-stack, map-based property visualization platform for the Dallas–Fort Worth area.
+- Implemented **guest vs authenticated data access**, secure JWT-based auth via Cognito, spatial queries using PostGIS, and CSV export.
+- Designed performant APIs with bounding-box filtering, server-side validation, and pagination.
+- Deployed frontend on **Vercel** and backend on **Render** with Dockerized services.
 
 ### 💼 [JobHub – Full-Stack Job Portal](https://jobhub-client-ivory.vercel.app/)  
 ReactJS | Node.js | Express | Clerk | Sentry  
