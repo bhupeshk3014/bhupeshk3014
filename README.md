@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Bhupesh Kumar!
 
-🚀 **Full-Stack Software Developer (AI-focused)** with 3+ years of professional experience building and shipping **production-grade systems** at **Reliance Jio** and developing **cloud-native, data-driven applications**.
-🎓 Graduate Certificates in **Applied AI/ML** and **Reporting Systems & Database Development** from Conestoga College, Canada.  
-💼 Actively seeking **Software Developer / Full-Stack / Backend / Java Developer** roles in Canada.
-🌐 Passionate about building scalable, reliable, and intelligent software with a strong foundation in **Data Structures & Algorithms** and cloud-native development.  
+- 🚀 **Full-Stack Software Developer (AI-focused)** with 3+ years of professional experience building and shipping **production-grade systems** at **Reliance Jio** and developing **cloud-native, data-driven applications**.
+- 🎓 Graduate Certificates in **Applied AI/ML** and **Reporting Systems & Database Development** from Conestoga College, Canada.  
+- 💼 Actively seeking **Software Developer / Full-Stack / Backend / Java Developer** roles in Canada.
+- 🌐 Passionate about building scalable, reliable, and intelligent software with a strong foundation in **Data Structures & Algorithms** and cloud-native development.  
 
 ---
 
@@ -20,12 +20,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**: Java, JavaScript, Python, C/C++, SQL, Lua
-**Frontend / Backend**: ReactJS, Node.js, Express, Spring Boot, REST APIs
-**AI / ML**: TensorFlow, Keras, CNNs, Reinforcement Learning (DQN), OpenCV
-**Databases**: PostgreSQL, MongoDB, MySQL, SQL Server
-**DevOps & Tooling**: Docker, GitHub Actions, Kafka, Jenkins, Azure, JIRA, Linux
-**Concepts**: Data Structures & Algorithms (DSA), OOP, Microservices, JWT Authentication, CI/CD, System Design, TR-069
+- **Languages**: Java, JavaScript, Python, C/C++, SQL, Lua
+- **Frontend / Backend**: ReactJS, Node.js, Express, Spring Boot, REST APIs
+- **AI / ML**: TensorFlow, Keras, CNNs, Reinforcement Learning (DQN), OpenCV
+- **Databases**: PostgreSQL, MongoDB, MySQL, SQL Server
+- **DevOps & Tooling**: Docker, GitHub Actions, Kafka, Jenkins, Azure, JIRA, Linux
+- **Concepts**: Data Structures & Algorithms (DSA), OOP, Microservices, JWT Authentication, CI/CD, System Design, TR-069
 
 ---
 
